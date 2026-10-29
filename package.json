@@ -1,0 +1,2 @@
+{"name":"tyb-mess-manager","version":"1.0.0","private":true,"scripts":{"serve":"npx serve www"},
+"dependencies":{"@capacitor/core":"6.1.2","@capacitor/android":"6.1.2"},"devDependencies":{"@capacitor/cli":"6.1.2"}}
